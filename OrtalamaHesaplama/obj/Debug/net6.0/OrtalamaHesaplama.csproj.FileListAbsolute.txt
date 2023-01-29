@@ -1,0 +1,15 @@
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.exe
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.deps.json
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.runtimeconfig.json
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\bin\Debug\net6.0\ref\OrtalamaHesaplama.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.pdb
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.AssemblyInfo.cs
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\ref\OrtalamaHesaplama.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.pdb
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.genruntimeconfig.cache
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.csproj.AssemblyReference.cache

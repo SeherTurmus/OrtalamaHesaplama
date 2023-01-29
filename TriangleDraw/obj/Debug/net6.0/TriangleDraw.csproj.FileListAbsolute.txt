@@ -1,0 +1,14 @@
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\bin\Debug\net6.0\TriangleDraw.exe
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\bin\Debug\net6.0\TriangleDraw.deps.json
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\bin\Debug\net6.0\TriangleDraw.runtimeconfig.json
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\bin\Debug\net6.0\TriangleDraw.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\bin\Debug\net6.0\ref\TriangleDraw.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\bin\Debug\net6.0\TriangleDraw.pdb
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.AssemblyInfoInputs.cache
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.AssemblyInfo.cs
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.csproj.CoreCompileInputs.cache
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\ref\TriangleDraw.dll
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.pdb
+C:\Users\Seher\Desktop\Dive Into Design Patterns\Factory Design Pattern\Algoritma\obj\Debug\net6.0\TriangleDraw.genruntimeconfig.cache
